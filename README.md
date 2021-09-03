@@ -12,15 +12,13 @@
 I am [Aparsh Gupta](https://aparsh.netlify.app/) a senior year undergraduate at IIT Patna, with a major as Electrical. I have a keen interest in competitive programming and have participated previously in competetions like kickstart, codejam, ACM ICPC amritapuri regionals and have secured some good positions.I have worked in web-development projects using MERN stack. I have also worked on data-science projects. I have experience with languages such as c++, python and javascript.
 
 
-</br>
 **Work Experiences:**
 
 - 👨🏻‍💻 Summer Intern @[Media.net](http://media.net/);
 - 🚀 6 months Backend Inten @[SayourIdyas](http://idya.in);
 - 💬 Backend Intenrn @[ProCivil](https://procivil.in/); 
-</br>
 
-</br>
+
 **Achievemnets:**
 
 - 👨🏻‍💻 Rank 128 in ICPC Gwalior-Pune regionals;
