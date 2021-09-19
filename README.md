@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aparsh-gupta-623690170/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aparsh.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aparsh.github.io/portfolio/)
 [![Resume Badge](https://img.shields.io/badge/Resume-E41321?style=for-the-badge&logo=Brave&logoColor=white)](https://aparsh.netlify.app/)
 [![Leetcode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/aparsh/)
 [![codechef Badge](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/aparshgupta)
