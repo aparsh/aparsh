@@ -21,6 +21,7 @@ I am [Aparsh Gupta](https://aparsh.netlify.app/) a senior year undergraduate at 
 
 **Achievemnets:**
 
+- 🚀 Global rank 3 in [Xiaomi Ode2Code](https://assessment.hackerearth.com/challenges/hiring/ode-2-code/);
 - 👨🏻‍💻 Rank 128 in ICPC Gwalior-Pune regionals;
 - 🚀 Global rank 398 in Google Kickstart-E; 
 - 💬 Global rank 284 in CodeAgon; 
